@@ -1,0 +1,59 @@
+
+(C:\Users\UserXXX\Miniconda3) C:\Users\UserXXX>conda --version
+conda 4.2.12
+
+(C:\Users\UserXXX\Miniconda3) C:\Users\UserXXX>conda create -n tensorflow_gpuenv tensorflow-gpu
+Fetching package metadata .........
+Solving package specifications: ..........
+
+Package plan for installation in environment C:\Users\UserXXX\Miniconda3\envs\tensorflow_gpuenv:
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    blas-1.0                   |              mkl           6 KB
+    cudatoolkit-8.0            |                3       319.9 MB
+    cudnn-6.0                  |                0        95.1 MB
+    mkl-2017.0.3               |                0       126.3 MB
+    vs2015_runtime-14.0.25420  |                0         2.0 MB
+    vc-14                      |                0          703 B
+    python-3.6.2               |                0        31.5 MB
+    zlib-1.2.11                |           vc14_0         119 KB
+    certifi-2016.2.28          |           py36_0         214 KB
+    libprotobuf-3.2.0          |           vc14_0         9.1 MB
+    numpy-1.12.1               |           py36_0         3.5 MB
+    six-1.10.0                 |           py36_0          20 KB
+    werkzeug-0.12.2            |           py36_0         435 KB
+    wheel-0.29.0               |           py36_0         129 KB
+    wincertstore-0.2           |           py36_0          14 KB
+    protobuf-3.2.0             |           py36_0         459 KB
+    setuptools-36.4.0          |           py36_1         534 KB
+    pip-9.0.1                  |           py36_1         1.7 MB
+    tensorflow-gpu-1.1.0       |      np112py36_0        41.9 MB
+    ------------------------------------------------------------
+                                           Total:       632.8 MB
+
+The following NEW packages will be INSTALLED:
+
+    blas:           1.0-mkl
+    certifi:        2016.2.28-py36_0
+    cudatoolkit:    8.0-3
+    cudnn:          6.0-0
+    libprotobuf:    3.2.0-vc14_0
+    mkl:            2017.0.3-0
+    numpy:          1.12.1-py36_0
+    pip:            9.0.1-py36_1
+    protobuf:       3.2.0-py36_0
+    python:         3.6.2-0
+    setuptools:     36.4.0-py36_1
+    six:            1.10.0-py36_0
+    tensorflow-gpu: 1.1.0-np112py36_0
+    vc:             14-0
+    vs2015_runtime: 14.0.25420-0
+    werkzeug:       0.12.2-py36_0
+    wheel:          0.29.0-py36_0
+    wincertstore:   0.2-py36_0
+    zlib:           1.2.11-vc14_0
+
+Proceed ([y]/n)?
