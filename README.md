@@ -27,9 +27,9 @@
 
     conda TensorFlow软件包还通过使用用于深度神经网络的英特尔®数学核心库（英特尔®MKL-DNN），在CPU上实现更好的性能。从版本1.9.0开始，conda TensorFlow软件包使用英特尔®MKL-DNN库构建，可显着提高性能。例如，图1比较了两个不同图像分类模型的训练和推理的性能，使用使用conda安装的TensorFlow，使用pip安装的相同版本。在许多基准测试中，conda安装版本的性能是pip安装包的速度的八倍多。
     
-    <img src="" width="640px" />
+    <img src="https://raw.githubusercontent.com/littleostar-blog/-conda-install-tensorflow-gpu-on-windows-10/master/images/conda1.png" width="640px" />
     
-    图1：使用合成数据在许多常见深度学习模型上训练TensorFlow的性能。 基准测试是在英特尔®至强®黄金6130上进行的。(图片来源:  https://www.anaconda.com/blog/developer-blog/tensorflow-in-anaconda/)
+    图1：使用合成数据在许多常见深度学习模型上训练TensorFlow的性能。 基准测试是在英特尔®至强®黄金6130上进行的。[图片来源](https://www.anaconda.com/blog/developer-blog/tensorflow-in-anaconda/)
 
     Anaconda为使用优秀的TensorFlow库提供更简单，更快速的体验而感到自豪。 为生产中使用的许多平台添加支持需要花费大量的时间和精力，并确保加速代码仍然稳定且数学上正确。 因此，我们的TensorFlow软件包可能无法与官方TensorFlow轮同时使用。 但是，我们承诺维护我们的TensorFlow软件包，并尽快提供更新。
 
