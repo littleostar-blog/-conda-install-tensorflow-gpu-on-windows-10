@@ -50,6 +50,14 @@
 
     TensorFlow现已安装并可以使用。对于那些刚接触TensorFlow的人来说，这些[教程](https://www.tensorflow.org/tutorials/)提供了一个入门的好地方。
 
+
+---
+
+- conda 安装记录
+
+    [文件](https://github.com/littleostar-blog/-conda-install-tensorflow-gpu-on-windows-10/tree/master/files)
+
+
 ---
 
 end
