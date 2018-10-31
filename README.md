@@ -2,10 +2,13 @@
 
 ---
 
-- 翻译来源：
+- 英文来源：
   - [https://www.anaconda.com/blog/developer-blog/tensorflow-in-anaconda/](https://www.anaconda.com/blog/developer-blog/tensorflow-in-anaconda/)
-  - https://towardsdatascience.com/stop-installing-tensorflow-using-pip-for-performance-sake-5854f9d9eb0c
+  - [https://towardsdatascience.com/stop-installing-tensorflow-using-pip-for-performance-sake-5854f9d9eb0c](https://towardsdatascience.com/stop-installing-tensorflow-using-pip-for-performance-sake-5854f9d9eb0c)
 
+
+- 翻译来源：
+  - [https://littleostar-blog.github.io/-conda-install-tensorflow-gpu-on-windows-10/](https://littleostar-blog.github.io/-conda-install-tensorflow-gpu-on-windows-10/)
 
 ---
 
